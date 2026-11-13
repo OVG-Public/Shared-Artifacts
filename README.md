@@ -28,4 +28,4 @@ These materials are for general education only and are not legal, accounting, ta
 
 ## Contact
 
-Questions, feedback, or permission requests: [CONTACT EMAIL]
+Questions, feedback, or permission requests: info@openvalegroup.com
