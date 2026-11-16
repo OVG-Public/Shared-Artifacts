@@ -2,7 +2,7 @@
 
 Practical guides on FP&A and Agentic Performance Management (APM) from [Openvale Group](https://www.openvalegroup.com), a boutique firm that helps finance teams build planning and reporting on data they own.
 
-Everything here is free to read and share for non-commercial use.
+Everything here is free to read, share, and adapt for your own organization's use.
 
 ## Contents
 
@@ -12,15 +12,23 @@ Everything here is free to read and share for non-commercial use.
 
 More resources will be added over time.
 
-## How to use these resources
+## What you can do
 
-- **Read and share freely.** Link to this repository or to a specific file.
-- **Cite the source.** Credit "Openvale Group" and link back here.
-- **Ask before adapting.** For commercial use, modified versions, or use in paid training, contact us first.
+- **Share it.** Link to this repository or to a specific file.
+- **Adapt it for your organization.** Edit, excerpt, rebrand sections, or build on it for your own team's onboarding, training, and internal processes. Using these materials inside your company counts as permitted use under this license, even if your company is a for-profit business.
+- **Credit the source.** Keep a line such as "Adapted from Openvale Group's FP&A Foundations" with a link back here, and note that you made changes.
+
+## What you can't do
+
+- **Sell it or anything built from it.** Don't resell, license, or charge for these materials or adaptations of them.
+- **Use it in paid offerings.** Don't include them in paid courses, paid training, consulting deliverables, or commercial products.
+- **Imply endorsement.** Don't use the Openvale Group name or logo in a way that suggests we endorse your version.
+
+For commercial use, contact us. We're happy to discuss it.
 
 ## License
 
-Content is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). See [LICENSE](./LICENSE) for full terms. The Openvale Group name and logo are not covered by this license.
+Content is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), with an added permission for internal organizational use. See [LICENSE](./LICENSE) for full terms. The Openvale Group name and logo are not covered by this license.
 
 ## Disclaimer
 

@@ -1,21 +1,35 @@
 Copyright (c) 2026 Openvale Group. Some rights reserved.
 
 Unless a file states otherwise, the content in this repository is licensed
-under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
-International License (CC BY-NC-ND 4.0).
+under the Creative Commons Attribution-NonCommercial 4.0 International
+License (CC BY-NC 4.0).
 
-Full legal text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
-Summary:         https://creativecommons.org/licenses/by-nc-nd/4.0/
+Full legal text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Summary:         https://creativecommons.org/licenses/by-nc/4.0/
 
-You may copy and share this material in any medium or format, provided that:
+Under this license, you may copy, share, and adapt this material, provided that:
 
   1. Attribution: You credit "Openvale Group," link to this repository or
-     the original source, and link to the license.
-  2. NonCommercial: You do not use the material for commercial purposes,
-     including resale, paid training, or inclusion in paid products or
-     services.
-  3. NoDerivatives: You do not distribute modified, adapted, or rebranded
-     versions of the material.
+     the original source, link to the license, and indicate if you made
+     changes.
+  2. NonCommercial: You do not use the material or any adaptation of it for
+     commercial purposes.
+
+Additional permission (internal organizational use):
+  Openvale Group grants an additional permission beyond CC BY-NC 4.0. Any
+  organization, including a for-profit company, may use, copy, and adapt
+  this material for its own internal purposes, such as employee onboarding,
+  training, and internal process documentation. This internal use is not
+  treated as commercial use, provided the material and any adaptations are
+  not sold, licensed, or provided to third parties for a fee.
+
+Commercial use is not permitted without written permission. Commercial use
+includes, without limitation:
+  - Selling, reselling, or licensing the material or adaptations of it.
+  - Including it in paid courses, paid training, or paid events.
+  - Including it in consulting deliverables or other services provided to
+    third parties for a fee.
+  - Including it in commercial software, products, or publications.
 
 Excluded from this license:
   - The Openvale Group name, the OVG logo, and other trademarks. These may
@@ -28,5 +42,4 @@ Disclaimer: This material is provided "as is" for general education only.
 It is not legal, accounting, tax, or investment advice. Openvale Group makes
 no warranties and accepts no liability for any use of this material.
 
-For permissions beyond this license, including commercial use or adaptation,
-contact Openvale Group at info@openvalegroup.com.
+For commercial use or other permissions, contact info@openvalegroup.com.
