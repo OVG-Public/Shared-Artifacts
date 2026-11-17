@@ -1,6 +1,6 @@
 # Openvale Group: Shared Resources
 
-Practical guides on FP&A and Agentic Performance Management (APM) from [Openvale Group](https://www.openvalegroup.com), a boutique firm that helps finance teams build planning and reporting on data they own.
+Practical guides on FP&A and Agentic Performance Management (APM) from [Openvale Group](https://www.openvalegroup.com), a boutique firm that builds full-stack agentic finance systems for CFOs and their teams, on platforms our clients own.
 
 Everything here is free to read, share, and adapt for your own organization's use.
 
