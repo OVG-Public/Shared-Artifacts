@@ -20,6 +20,20 @@ Everything here is free to read, share, and adapt for your own organization's us
 |---|---|---|
 | [Qualitative Research Synthesis](./qualitative-research-synthesis.md) | Plans stakeholder interviews and codes the transcripts into evidence-backed findings, leadership readouts, and follow-up notes for each interviewee. Designed for diagnosing a finance organization before building anything: what leaders need, where trust in the numbers breaks down, and which questions the business can't answer today. | Finance business partners, FP&A leaders, and internal teams preparing a planning or reporting redesign. |
 
+### OVG Toolkit
+
+Five quick checks for the moments where finance and consulting work most often goes wrong. Each one gives a verdict (Pass, Pass with fixes, or Fail), one thing done well, two fixes with the reason behind each, and something ready to use. They're built to teach judgment, so people need them less over time. The skills refer to each other and work best installed as a set.
+
+| Skill | Run it when | You get |
+|---|---|---|
+| [Plan](./ovg-toolkit-plan.md) | You pick up a task or workstream, before you build | A check on the why, the milestone, and whether the work fits your hours, plus a proposed tracker |
+| [Prioritize](./ovg-toolkit-prioritize.md) | There's more on your plate than time | Your list in a new order, what to start now, and a flag on any quiet quality cuts |
+| [Deliver](./ovg-toolkit-deliver.md) | You're about to release a dashboard, model, app, or tool | A check on testing and feedback, plus a test summary to send with the release |
+| [Communicate](./ovg-toolkit-communicate.md) | A message is about to go out | A check on the ask, timing, channel, and claims, plus a rewrite in your voice |
+| [Escalate](./ovg-toolkit-escalate.md) | You're stuck, blocked, or see a risk | Whether to escalate now or try something first, and to whom, plus a ready-to-send message |
+
+The Toolkit was written for a consulting team. Read "EM" as whoever assigned the work and "client" as whoever relies on it, and adjust the default thresholds to your own standards. Each skill can optionally hand rewrites to a separate "humanizer" style skill; without one, it applies the same style rules itself.
+
 More resources will be added over time.
 
 ## Before using the AI skills
